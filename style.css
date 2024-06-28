@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: #964B00;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 7px solid black;
+    border-radius: 2vmax;
+    margin: 1.5vmax;
+    
+}
+.container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#score {
+    font-size: x-large;
+}
+
+.orange {
+    background-color: #FFC080;
+}
+.pink {
+    background-color: #FF69B4;
+}
+.green {
+    background-color: #33CC33;
+
+}
+.aqua {
+    background-color: #66CCCC;
+    
+}
+
+.flashColor {
+    background-color: white;
+}
+
+.userFlash {
+    background-color: antiquewhite;
+}
